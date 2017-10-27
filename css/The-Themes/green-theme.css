@@ -1,0 +1,43 @@
+/***** Start Default Theme *****/
+
+/* Active Links */
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check
+{
+    background-color: #17ff5e
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.about h4 span,
+.testim span,
+.footer h3,
+.footer .copyright span
+{
+    color: #17ff5e
+}
+
+.option-box .color-option,
+.testim .carousel-indicators .active
+{
+    border: 3px solid #17ff5e;
+}
+
+.dropdown-menu
+{
+    border-top: 2px solid #17ff5e
+}
+
+.carousel-indicators .active
+{
+    border: 1px solid #17ff5e;
+}
+
+
+/***** End Default Theme *****/
